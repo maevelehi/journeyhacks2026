@@ -1,1 +1,21 @@
+/* Main container card */
+#main-container {
+  background-color: #EBF4DD;
+  margin: 30px auto;
+  width: 95%;
+  border-radius: 16px;
+  padding: 2rem;
+}
 
+/* Top card inside main container */
+.top-card {
+  background-color: #ffffff; 
+  width: 93%;                
+  margin: 0 auto;  
+  padding: 1rem 1.5rem;
+  border-radius: 16px;      
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1); 
+}
