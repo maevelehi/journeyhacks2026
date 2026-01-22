@@ -1,4 +1,4 @@
-# Student Care+ Survival
+# StudentCare+ 
 
 
 ## Overview
@@ -80,3 +80,8 @@ We created Figma boards to explore the layout and user flow, but as we tested th
 
 ## What's next for StudentCare+
 We plan to complete the HTML/CSS layout, add all YouTube mindfulness videos, and make buttons and the AI-guided features fully functional. Once implemented, users will be able to seamlessly access curated resources and receive personalized support for managing stress and anxiety.
+
+## Links
+- Devpost: [StudentCare on Devpost](https://devpost.com/software/studentcare)
+
+
